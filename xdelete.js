@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         TweetXer
+// @name         xdelete
 // @namespace    https://github.com/sysjerm/xdelete
 // @version      0.2.6
 // @description  delete all your old twitter/x post and replies
